@@ -5,7 +5,7 @@ class ApplicationController < ActionController::Base
   end
 
   def goodbye
-    render html: "¡goodbye, darkness¡"
+    render html: "¡goodbye, darkness my old frand!"
   end
   
   
